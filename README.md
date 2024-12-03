@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @ajay126z
+# About Me
+- 👋 Hi, I’m Ajay Zapadiya.
 - 👀 I’m interested in ... Automation, Embedded and Automotive Software Development, PKM
 - 🌱 I’m currently working on... AUTOSAR, ADAS, Fusion Algorithms, Electric Power Train.
 - 💞️ I’m looking to collaborate on ... Python, Image Processing, ADAS, Power Train Embedded Automotive Software Development. 
