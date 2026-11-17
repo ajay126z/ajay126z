@@ -1,6 +1,6 @@
 # About Me
 - 👋 Hi, I’m Ajay Zapadiya.
-- 👀 I’m interested in ... Automation, Embedded and Automotive Software Development, PKM
+- 👀 I’m interested in ... Automation, Embedded and Automotive Software Development, PKM, and more.
 - 🌱 I’m currently working on... AUTOSAR, ADAS, Fusion Algorithms, Electric Power Train, Mathematics, Machine Learning and Data Science.
 - 📫 How to reach me ... 
         Drop an email to 'ajay126zapadiya.exe@gmail.com'
